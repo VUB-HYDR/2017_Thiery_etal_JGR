@@ -6,7 +6,7 @@ Scripts used in Thiery et al., 2017 JGR.
 This repository includes the postprocessing scripts of the CESM runs presented in this paper. The postprocessing is performed in Matlab 2017b.
 
 ## Versions
-Version 0.1.0 - April 2018
+Version 0.1.0 - May 2018
 
 ## Authors
 Wim Thiery
